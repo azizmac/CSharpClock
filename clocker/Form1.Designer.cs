@@ -46,11 +46,11 @@
             // 
             sTimeClock.AutoSize = true;
             sTimeClock.Font = new Font("Impact", 21.75F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            sTimeClock.Location = new Point(210, 105);
+            sTimeClock.Location = new Point(190, 105);
             sTimeClock.Name = "sTimeClock";
-            sTimeClock.Size = new Size(85, 36);
+            sTimeClock.Size = new Size(123, 36);
             sTimeClock.TabIndex = 0;
-            sTimeClock.Text = "00:00";
+            sTimeClock.Text = "00:00:00";
             // 
             // btStart
             // 
@@ -103,6 +103,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.MenuBar;
             ClientSize = new Size(481, 317);
             Controls.Add(msTime);
             Controls.Add(btStop);

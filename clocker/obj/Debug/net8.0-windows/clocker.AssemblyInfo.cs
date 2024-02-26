@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("clocker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77e2361b53f6b58d0ac8af8c8584cd8fc2445784")]
 [assembly: System.Reflection.AssemblyProductAttribute("clocker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("clocker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

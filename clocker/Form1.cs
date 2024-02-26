@@ -18,7 +18,7 @@ namespace clocker
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            sTimeClock.Text = DateTime.Now.ToString("HH:mm");
+            sTimeClock.Text = DateTime.Now.ToString("HH:mm:ss");
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -61,9 +61,9 @@ namespace clocker
 
         private void timer2_Tick(object sender, EventArgs e)
         {
-            sTimeClock.Text = DateTime.Now.Hour.ToString("00") + ":" + DateTime.Now.Minute.ToString("00"); //+ ":" + DateTime.Now.Second.ToString("00");
+            sTimeClock.Text = DateTime.Now.Hour.ToString("00") + ":" + DateTime.Now.Minute.ToString("00") + ":" + DateTime.Now.Second.ToString("00");
 
-            if (sTimeClock.Text == sTimeAlarm.Text)
+            if (sTimeClock.Text == sTimeAlarm.Text + ":00")
             {
                 btStop.Enabled = true;
             }
