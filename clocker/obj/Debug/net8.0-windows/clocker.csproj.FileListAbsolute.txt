@@ -1,0 +1,16 @@
+C:\Users\Илья\source\repos\clocker\clocker\bin\Debug\net8.0-windows\clocker.exe
+C:\Users\Илья\source\repos\clocker\clocker\bin\Debug\net8.0-windows\clocker.deps.json
+C:\Users\Илья\source\repos\clocker\clocker\bin\Debug\net8.0-windows\clocker.runtimeconfig.json
+C:\Users\Илья\source\repos\clocker\clocker\bin\Debug\net8.0-windows\clocker.dll
+C:\Users\Илья\source\repos\clocker\clocker\bin\Debug\net8.0-windows\clocker.pdb
+C:\Users\Илья\source\repos\clocker\clocker\obj\Debug\net8.0-windows\clocker.Form1.resources
+C:\Users\Илья\source\repos\clocker\clocker\obj\Debug\net8.0-windows\clocker.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\clocker\clocker\obj\Debug\net8.0-windows\clocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\clocker\clocker\obj\Debug\net8.0-windows\clocker.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\clocker\clocker\obj\Debug\net8.0-windows\clocker.AssemblyInfo.cs
+C:\Users\Илья\source\repos\clocker\clocker\obj\Debug\net8.0-windows\clocker.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\clocker\clocker\obj\Debug\net8.0-windows\clocker.dll
+C:\Users\Илья\source\repos\clocker\clocker\obj\Debug\net8.0-windows\refint\clocker.dll
+C:\Users\Илья\source\repos\clocker\clocker\obj\Debug\net8.0-windows\clocker.pdb
+C:\Users\Илья\source\repos\clocker\clocker\obj\Debug\net8.0-windows\clocker.genruntimeconfig.cache
+C:\Users\Илья\source\repos\clocker\clocker\obj\Debug\net8.0-windows\ref\clocker.dll
